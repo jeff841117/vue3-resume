@@ -2,22 +2,12 @@
     "locales": {
         "en": {
             "title": "Career <span class='text-primary'>Achievements</span>",
-            "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:"
-        },
-
-        "es": {
-            "title": "Logros <span class='text-primary'>Profesionales</span>",
-            "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:"
-        },
-
-        "fr": {
-            "title": "Réalisations <span class='text-primary'>Professionnelles</span>",
-            "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:"
+            "description": "In past experiences, different jobs have achieved different results. So I've compiled a list of these notable achievements:"
         },
 
         "zh": {
-            "title": "职业<span class='text-primary'>成就</span>",
-            "description": "作为一名UX设计师，我的旅程充满了对学习和技能提升的坚定执着，以及对设计活动的热情参与。因此，我汇总了一份显著奖项和认证的列表："
+            "title": "職業<span class='text-primary'>成就</span>",
+            "description": "在過往的經歷中，不同的工作分別取得了不同的成績。因此，我將這些顯著的成就整理了出來："
         }
     },
 
@@ -26,10 +16,8 @@
             "id": "awards",
             "faIcon": "fa-solid fa-trophy",
             "locales": {
-                "en": {"title": "Awards", "buttonLabel": "More Info"},
-                "es": {"title": "Premios", "buttonLabel": "Más Información"},
-                "fr": {"title": "Prix", "buttonLabel": "Plus d'Infos"},
-                "zh": {"title": "奖项", "buttonLabel": "了解更多"}
+                "en": {"title": "Achievements"},
+                "zh": {"title": "成就"}
             }
         },
 
@@ -38,9 +26,7 @@
             "faIcon": "fa-solid fa-award",
             "locales": {
                 "en": {"title": "Certifications", "buttonLabel": "View Certification"},
-                "es": {"title": "Certificaciones", "buttonLabel": "Ver Certificación"},
-                "fr": {"title": "Certifications", "buttonLabel": "Voir la Certification"},
-                "zh": {"title": "获得的证书", "buttonLabel": "查看证书"}
+                "zh": {"title": "獲得的證書", "buttonLabel": "查看證書"}
             }
         }
     ],
@@ -48,113 +34,73 @@
     "items": {
         "awards": [
             {
-                "id": "graduation_project",
-                "place": "@link{places.harvard}",
-                "date": "2018/08",
+                "id": "plutocracyinternational_performance",
+                "place": "@link{places.plutocracyinternational}",
+                "date": "2020/09",
                 "href": null,
                 "locales": {
                     "en": {
-                        "title": "Best Graduation Project",
-                        "description": "Outstanding work on graduation project; recognized for innovation and impact."
-                    },
-
-                    "es": {
-                        "title": "Mejor Proyecto de Graduación",
-                        "description": "Trabajo destacado en proyecto de graduación; reconocido por innovación e impacto."
-                    },
-
-                    "fr": {
-                        "title": "Meilleur Projet de Fin d'Études",
-                        "description": "Travail exceptionnel sur le projet de fin d'études; reconnu pour l'innovation et l'impact."
+                        "title": "Services Monthly Performance",
+                        "description": "The monthly performance reached NT$5.5 million, and the net profit exceeded NT$1.5 million."
                     },
 
                     "zh": {
-                        "title": "最佳毕业项目",
-                        "description": "在毕业项目上的杰出工作；因创新和影响力受到认可。"
+                        "title": "業務開發的月業績",
+                        "description": "月業績達成550萬台幣，純利潤超於150萬台幣。"
                     }
                 }
             },
 
             {
-                "id": "alumni_hackaton",
-                "place": "@link{places.harvard}",
-                "date": "2019/09",
-                "href": "https://harvard.com",
-                "locales": {
-                    "en": {
-                        "title": "2nd Place – Alumni UX Hackathon",
-                        "description": "Secured 2nd place in Harvard's Alumni UX hackathon; demonstrated creative problem-solving."
-                    },
-
-                    "es": {
-                        "title": "2do Lugar - Hackathon Alumni de UX",
-                        "description": "Obtuvo el 2do lugar en el Hackathon Alumni de UX de Harvard; demostró solución creativa de problemas."
-                    },
-
-                    "fr": {
-                        "title": "2e Place - Hackathon UX des Anciens",
-                        "description": "Obtenu la 2e place au hackathon UX des anciens de Harvard; démontré la résolution créative de problèmes."
-                    },
-
-                    "zh": {
-                        "title": "第二名 - 校友UX黑客马拉松",
-                        "description": "在哈佛校友UX黑客马拉松中获得第二名；展示了创造性问题解决能力。"
-                    }
-                }
-            },
-
-            {
-                "id": "adobe_jam",
-                "place": "@link{places.adobe}",
-                "date": "2020/11",
+                "id": "plutocracyinternational_maintain",
+                "place": "@link{places.plutocracyinternational}",
+                "date": "2021/03",
                 "href": null,
                 "locales": {
                     "en": {
-                        "title": "1st Place – Adobe Creative Jam",
-                        "description": "Achieved 1st place in Adobe Creative Jam; showcased design excellence and collaboration."
-                    },
-
-                    "es": {
-                        "title": "1er Lugar - Adobe Creative Jam",
-                        "description": "Obtuvo el 1er lugar en Adobe Creative Jam; mostró excelencia en diseño y colaboración."
-                    },
-
-                    "fr": {
-                        "title": "1ère Place - Adobe Creative Jam",
-                        "description": "Obtenu la 1ère place à Adobe Creative Jam; mis en avant l'excellence en design et la collaboration."
+                        "title": "Overall performance of the maintain department",
+                        "description": "When ten people in the department work from home, the monthly performance reaches NT$75 million and the net profit is NT$15 million."
                     },
 
                     "zh": {
-                        "title": "第一名 - Adobe创意盛宴",
-                        "description": "在Adobe创意盛宴中获得第一名；展示了卓越的设计和合作。"
+                        "title": "部門的總維護成績",
+                        "description": "部門十人居家辦公時，月業績達成7500萬台幣，1500萬純利潤台幣。"
                     }
                 }
             },
 
             {
-                "id": "article_mention",
-                "place": "@link{places.forbes}",
+                "id": "yichao_quantityofwiring",
+                "place": "@link{places.yichao}",
+                "date": "2022/04",
+                "href": null,
+                "locales": {
+                    "en": {
+                        "title": "At peak times, the number of customers received exceeded 1,200 on that day.",
+                        "description": "At peak times, the number of customers received exceeded 1,200 on that day."
+                    },
+
+                    "zh": {
+                        "title": "文字客服的高峰接線數量",
+                        "description": "高峰時期接線量超過1200。"
+                    }
+                }
+            },
+
+            {
+                "id": "chungjhih_problemvolume",
+                "place": "@link{places.chungjhih}",
                 "date": "2023/03",
-                "href": "https://forbes.com",
+                "href": null,
                 "locales": {
                     "en": {
-                        "title": "Article Mention – UX Contribution",
-                        "description": "Featured in Forbes for outstanding UX contributions; impactful designs and insights."
-                    },
-
-                    "es": {
-                        "title": "Mención en Artículo - Contribución a UX",
-                        "description": "Destacado en Forbes por sobresalientes contribuciones a UX; diseños e ideas impactantes."
-                    },
-
-                    "fr": {
-                        "title": "Mention d'Article - Contribution UX",
-                        "description": "Mis en avant dans Forbes pour d'excellentes contributions UX ; designs et idées impactantes."
+                        "title": "Number of technical customer service issues per month",
+                        "description": "At its peak, the number of questions per month exceeded 500."
                     },
 
                     "zh": {
-                        "title": "文章提及 - 用户体验贡献",
-                        "description": "在福布斯杂志上因出色的用户体验贡献而受到关注；设计和见解产生了影响。"
+                        "title": "技術客服的每月問題量",
+                        "description": "高峰時期每月問題量超過500。"
                     }
                 }
             }
@@ -162,85 +108,73 @@
 
         "certifications": [
             {
-                "id": "google_cert",
-                "place": "@link{places.google}",
-                "date": "2018/08",
-                "href": "https://google.com",
+                "id": "sse_cert",
+                "place": "@link{places.aletheia}",
+                "date": "2017/06",
+                "href": "https://siliconexam.com/certification-result.php?eno=00890120170609020006",
                 "locales": {
                     "en": {
-                        "title": "Google UX Design Certification",
-                        "description": "Certified by Google in UX design; demonstrated expertise in user-centered design."
-                    },
-
-                    "es": {
-                        "title": "Certificación de Diseño UX de Google",
-                        "description": "Certificado por Google en diseño UX; demostró experiencia en diseño centrado en el usuario."
-                    },
-
-                    "fr": {
-                        "title": "Certification Google UX Design",
-                        "description": "Certifié par Google en conception UX ; a démontré une expertise en design centré sur l'utilisateur."
+                        "title": "Silicon Stone Education Microsoft PowerPoint 2016",
+                        "description": "Passed Silicon Stone Education PowerPoint 2016 certification; demonstrate PowerPoint, all necessary knowledge and skills for presentation editing."
                     },
 
                     "zh": {
-                        "title": "Google用户体验设计认证",
-                        "description": "通过Google用户体验设计认证；展示了用户中心设计的专业知识。"
+                        "title": "PowerPoint 2016國際認證簡章",
+                        "description": "通過Silicon Stone Education PowerPoint 2016證照；展示PowerPoint，所應俱備的簡報編輯知識技術。"
                     }
                 }
             },
 
             {
-                "id": "ui_nanodegree",
-                "place": "@link{places.udacity}",
-                "date": "2019/04",
-                "href": "https://udemy.com",
+                "id": "sse_cert",
+                "place": "@link{places.aletheia}",
+                "date": "2017/06",
+                "href": "https://siliconexam.com/certification-result.php?eno=00890120170613010002",
                 "locales": {
                     "en": {
-                        "title": "UI/UX Nanodegree",
-                        "description": "Completed comprehensive UI/UX nanodegree on Udemy; acquired practical skills."
-                    },
-
-                    "es": {
-                        "title": "Nanogrado en UI/UX",
-                        "description": "Completó el nanogrado completo en UI/UX en Udemy; adquirió habilidades prácticas."
-                    },
-
-                    "fr": {
-                        "title": "Nanodiplôme UI/UX",
-                        "description": "A suivi le nanodiplôme complet en UI/UX sur Udemy ; a acquis des compétences pratiques."
+                        "title": "Silicon Stone Education Microsoft Word 2016",
+                        "description": "Passed Silicon Stone Education PowerPoint 2016 certification; demonstrate Word, all necessary document editing knowledge and technology."
                     },
 
                     "zh": {
-                        "title": "UI/UX纳米学位",
-                        "description": "在Udemy完成了全面的UI/UX纳米学位；获得了实际技能。"
+                        "title": "Word 2016國際認證簡章",
+                        "description": "通過Silicon Stone Education Word 2016證照；展示Word，所應俱備的文書編輯知識技術。"
                     }
                 }
             },
-
+            
             {
-                "id": "material_cert",
-                "place": "@link{places.google}",
-                "date": "2020/06",
-                "href": "https://google.com",
+                "id": "sse_cert",
+                "place": "@link{places.aletheia}",
+                "date": "2017/06",
+                "href": "https://siliconexam.com/certification-result.php?eno=00890120170609010009",
                 "locales": {
                     "en": {
-                        "title": "Material Design Certification",
-                        "description": "Earned Material Design certification; demonstrated proficiency in modern design principles."
-                    },
-
-                    "es": {
-                        "title": "Certificación de Material Design",
-                        "description": "Obtuvo certificación de Material Design; demostró competencia en principios de diseño moderno."
-                    },
-
-                    "fr": {
-                        "title": "Certification Material Design",
-                        "description": "A obtenu la certification Material Design ; a démontré sa maîtrise des principes de design modernes."
+                        "title": "Silicon Stone Education Microsoft Excel 2016",
+                        "description": "Passed Silicon Stone Education PowerPoint 2016 certification; demonstrate Excel, spreadsheet knowledge and skills required."
                     },
 
                     "zh": {
-                        "title": "Material Design认证",
-                        "description": "获得了Material Design认证；展示了对现代设计原则的熟练掌握。"
+                        "title": "Excel 2016國際認證簡章",
+                        "description": "通過Silicon Stone Education Excel 2016證照；展示Excel，所應俱備的試算表知識以及技術。"
+                    }
+                }
+            },
+            
+            {
+                "id": "sse_cert",
+                "place": "@link{places.aletheia}",
+                "date": "2017/06",
+                "href": "https://siliconexam.com/certification-result.php?eno=60010120151130060007",
+                "locales": {
+                    "en": {
+                        "title": "Silicon Stone Education Microsoft Office 2016",
+                        "description": "Passed Silicon Stone Education PowerPoint 2016 certification; demonstrate Microsoft Office, all required knowledge and skills."
+                    },
+
+                    "zh": {
+                        "title": "Microsoft Office 2016國際認證簡章",
+                        "description": "通過Silicon Stone Education Microsoft Office 2016證照；展示Microsoft Office，所應俱備的知識以及技術。"
                     }
                 }
             }

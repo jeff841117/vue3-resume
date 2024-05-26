@@ -1,26 +1,16 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "Jeff Huang",
+    "profilePictureUrl": "images/pictures/jeff.jpg",
 
     "locales": {
         "en": {
             "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-
-        "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
+            "role": "Junior front-end engineer , Indie unity game developer"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "credits": "設計：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "role": "前端工程師、unity遊戲開發者"
         }
     },
 
@@ -35,10 +25,10 @@
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "jeff841117@gmail.com",
+            "valueShort": "jeff841117@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:jeff841117@gmail.com"
         },
 
         "facebook": {
@@ -51,10 +41,10 @@
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "https://github.com/jeff841117",
+            "valueShort": "https://github.com/jeff841117",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/jeff841117"
         },
 
         "instagram": {
@@ -65,20 +55,20 @@
             "href": "https://instagram.com"
         },
 
-        "linkedin": {
-            "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+        "itch": {
+            "id": "itch",
+            "value": "jeff841117.itch.io",
+            "valueShort": "jeff841117.itch.io",
+            "faIcon": "fa-brands fa-itch-io",
+            "href": "https://jeff841117.itch.io/"
         },
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+886 0978-080-593",
+            "valueShort": "0978-080-593",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:0978080593"
         }
     }
 }

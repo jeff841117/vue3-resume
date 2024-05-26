@@ -32,14 +32,6 @@
         },
 
         {
-            "id": "education",
-            "categoryId": "background",
-            "component": "TimelineSection",
-            "jsonPath": "data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
-
-        {
             "id": "skills",
             "categoryId": "showcase",
             "component": "InfoSection",
@@ -64,6 +56,14 @@
         },
 
         {
+            "id": "education",
+            "categoryId": "background",
+            "component": "TimelineSection",
+            "jsonPath": "data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
+        },
+
+        {
             "id": "achievements",
             "categoryId": "showcase",
             "component": "ThreadsSection",
@@ -77,14 +77,6 @@
             "component": "InfoSection",
             "jsonPath": "data/sections/hobbies.json",
             "faIcon": "fa-solid fa-heart"
-        },
-
-        {
-            "id": "contact",
-            "categoryId": "more",
-            "component": "ContactSection",
-            "jsonPath": "data/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square"
         }
     ]
 }

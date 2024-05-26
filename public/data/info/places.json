@@ -50,14 +50,12 @@
         }
     },
 
-    "paris": {
-        "logoUrl": "images/places/logo-paris-university.png",
+    "aletheia": {
+        "logoUrl": "images/places/logo-aletheia-university.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
+            "en": {"name": "University of Aletheia"},
+            "zh": {"name": "私立真理大学"}
         }
     },
 
@@ -74,6 +72,33 @@
         "faIcon": "fas fa-paint-brush",
         "locales": {
             "en": {"name": "UX Masters Studio"}
+        }
+    },
+
+    "plutocracyinternational": {
+        "logoUrl": null,
+        "faIcon": "fas fa-building",
+        "locales": {
+            "en": {"name": "Plutocracy International Co., Ltd"},
+            "zh": {"name": "富豪國際有限公司"}
+        }
+    },
+
+    "yichao": {
+        "logoUrl": null,
+        "faIcon": "fas fa-building",
+        "locales": {
+            "en": {"name": "YI CHAO Technology Limited"},
+            "zh": {"name": "苡兆科技有限公司"}
+        }
+    },
+
+    "chungjhih": {
+        "logoUrl": null,
+        "faIcon": "fas fa-building",
+        "locales": {
+            "en": {"name": "CHUNG JHIH Ltd"},
+            "zh": {"name": "創智有限公司"}
         }
     }
 }
