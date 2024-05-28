@@ -1,6 +1,6 @@
 {
     "adobe": {
-        "logoUrl": "/vue-resume/images/places/logo-adobe.png",
+        "logoUrl": "./images/places/logo-adobe.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Adobe Inc."}
@@ -8,7 +8,7 @@
     },
 
     "apple": {
-        "logoUrl": "/vue-resume/images/places/logo-apple.png",
+        "logoUrl": "./images/places/logo-apple.png",
         "faIcon": "fab fa-apple",
         "locales": {
             "en": {"name": "Apple Inc."}
@@ -16,7 +16,7 @@
     },
 
     "coursera": {
-        "logoUrl": "/vue-resume/images/places/logo-coursera.png",
+        "logoUrl": "./images/places/logo-coursera.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Coursera"}
@@ -40,7 +40,7 @@
     },
 
     "harvard": {
-        "logoUrl": "/vue-resume/images/places/logo-harvard.png",
+        "logoUrl": "./images/places/logo-harvard.png",
         "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "Harvard University"},
@@ -51,7 +51,7 @@
     },
 
     "aletheia": {
-        "logoUrl": "/vue-resume/images/places/logo-aletheia-university.png",
+        "logoUrl": "./images/places/logo-aletheia-university.png",
         "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "University of Aletheia"},
@@ -60,7 +60,7 @@
     },
 
     "udacity": {
-        "logoUrl": "/vue-resume/images/places/logo-udacity.png",
+        "logoUrl": "./images/places/logo-udacity.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Udacity"}
@@ -68,7 +68,7 @@
     },
 
     "uxStudio": {
-        "logoUrl": "/vue-resume/images/places/logo-ux-studio.png",
+        "logoUrl": "./images/places/logo-ux-studio.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
             "en": {"name": "UX Masters Studio"}

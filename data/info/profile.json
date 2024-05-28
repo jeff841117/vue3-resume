@@ -1,6 +1,6 @@
 {
     "name": "Jeff Huang",
-    "profilePictureUrl": "/vue-resume/images/pictures/jeff.jpg",
+    "profilePictureUrl": "./images/pictures/jeff.jpg",
 
     "locales": {
         "en": {
