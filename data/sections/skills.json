@@ -201,7 +201,7 @@
 
         "languages": [
             {
-                "imageIconUrl": "./images/flags/en.png",
+                "imageIconUrl": "images/flags/en.png",
                 "faIcon": null,
                 "value": 40,
                 "locales": {
@@ -211,7 +211,7 @@
             },
 
             {
-                "imageIconUrl": "./images/flags/es.png",
+                "imageIconUrl": "images/flags/es.png",
                 "faIcon": null,
                 "value": 100,
                 "locales": {

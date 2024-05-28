@@ -39,7 +39,7 @@
             {
                 "id": "seamlesscarousel",
                 "title": "無縫輪播",
-                "logoUrl": "./images/portfolio/project-logo-1.png",
+                "logoUrl": "images/portfolio/project-logo-1.png",
                 "links": [
                     {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project1"}
                 ],
@@ -58,7 +58,7 @@
             {
                 "id": "3dcardeffect",
                 "title": "3D卡片效果",
-                "logoUrl": "./images/portfolio/project-logo-2.png",
+                "logoUrl": "images/portfolio/project-logo-2.png",
                 "links": [
                     {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project2"}
                 ],
@@ -77,7 +77,7 @@
             {
                 "id": "sassstarrysky",
                 "title": "Sass星空",
-                "logoUrl": "./images/portfolio/project-logo-3.png",
+                "logoUrl": "images/portfolio/project-logo-3.png",
                 "links": [
                     {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project3"}
                 ],
@@ -99,7 +99,7 @@
             {
                 "id": "registrationandlogin",
                 "title": "註冊與登入",
-                "logoUrl": "./images/portfolio/project-logo-4.png",
+                "logoUrl": "images/portfolio/project-logo-4.png",
                 "links": [
                     {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project4"}
                 ],
@@ -120,7 +120,7 @@
             {
                 "id": "explosivelittlewizard",
                 "title": "暴暴小法師",
-                "logoUrl": "./images/portfolio/project-logo-5.png",
+                "logoUrl": "images/portfolio/project-logo-5.png",
                 "links": [
                     {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project5"}
                 ],
