@@ -1,0 +1,28 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume and Portfolio!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "As a beginner who has just entered the programming world, my greatest strengths are my passion and continuous knowledge acquisition. I hope we can work together to create amazing works!"
+        },
+
+        "zh": {
+            "welcome": "歡迎!這是我的<span class='text-primary'>履歷與作品集</span>！",
+            "welcomeShort": "歡迎!",
+            "bio": "作為一個剛進入程式世界的初學者，充分的熱情與不斷汲取知識是我最大的優點，希望我們一起合作，創造出令人驚嘆的作品!"
+        }
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.itch}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.email}",
+            "@link{profile.contact.itch}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "locales": {
+        "en": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "Features and mini-games that I find interesting."
+        },
+        "zh": {
+            "title": "我的<span class='text-primary'>作品集</span>",
+            "description": "我覺得有意思的功能與小遊戲作品。"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "productivity",
+            "locales": {
+                "en": {"title": "Interesting Functions"},
+                "zh": {"title": "趣味功能"}
+            }
+        },
+        {
+            "id": "utilities",
+            "locales": {
+                "en": {"title": "Specific Functions"},
+                "zh": {"title": "特定功能"}
+            }
+        },
+        {
+            "id": "social",
+            "locales": {
+                "en": {"title": "Simple Game"},
+                "zh": {"title": "小遊戲"}
+            }
+        }
+    ],
+
+    "items": {
+        "productivity": [
+            {
+                "id": "seamlesscarousel",
+                "title": "無縫輪播",
+                "logoUrl": "images/portfolio/project-logo-1.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project1"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Purely native seamless carousel banner display. <br> <b>Force reflow</b> Let the browser re-render and reassign the execution order of JS.",
+                        "tags": ["eventloop", "carousel", "browser render"]
+                    },
+                    "zh": {
+                        "description": "純原生的無縫輪播banner展示。<br> <b>強制回流</b>讓瀏覽器重新渲染重新分配JS的執行順序。",
+                        "tags": ["事件循環", "輪播圖", "瀏覽器渲染"]
+                    }
+                }
+            },
+
+            {
+                "id": "3dcardeffect",
+                "title": "3D卡片效果",
+                "logoUrl": "images/portfolio/project-logo-2.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project2"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Only CSS hover effect display.<br> <b>perspective</b>Achieve depth of field effect",
+                        "tags": ["CSS", "animation", "perspective"]
+                    },
+                    "zh": {
+                        "description": "純css的hover效果展示。<br> <b>perspective</b>達成景深效果。",
+                        "tags": ["CSS", "動畫", "深度"]
+                    }
+                }
+            },
+
+            {
+                "id": "sassstarrysky",
+                "title": "Sass星空",
+                "logoUrl": "images/portfolio/project-logo-3.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project3"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Use sass to simplify the complicated tasks of css to create a starry sky shape. <br>Application of <b>@function, @for</b> and variables in sass",
+                        "tags": ["sass", "variables"]
+                    },
+                    "zh": {
+                        "description": "使用sass將css繁雜的任務簡單化布局出星空的造型。<br>sass中<b>@function、@for</b>與變數的應用",
+                        "tags": ["sass", "變數"]
+                    }
+                }
+            }
+        ],
+
+        "utilities": [
+            
+            {
+                "id": "registrationandlogin",
+                "title": "註冊與登入",
+                "logoUrl": "images/portfolio/project-logo-4.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project4"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Use PHP and back-end database SQL to implement the login and registration functions of the front-end website.",
+                        "tags": ["PHP", "database"]
+                    },
+                    "zh": {
+                        "description": "使用php與後端資料庫SQL實現登入與註冊邏輯",
+                        "tags": ["PHP", "資料庫"]
+                    }
+                }
+            }
+        ],
+
+        "social": [
+            {
+                "id": "explosivelittlewizard",
+                "title": "暴暴小法師",
+                "logoUrl": "images/portfolio/project-logo-5.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-play", "href": "https://myweb841117.000webhostapp.com/project5"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "<b>Explosive Little Wizard</b> Players need to face countless soldiers and how long they can survive surrounded by such heavy enemies. The skill upgrade system is your greatest weapon.",
+                        "tags": ["unity", "game", "survive"]
+                    },
+                    "zh": {
+                        "description": "<b>暴暴小法師</b> 玩家需要面對無數的士兵，在這樣重重的敵人包圍之下，能夠生存多久。技能升級系統是你最大的武器。",
+                        "tags": ["unity", "遊戲", "生存"]
+                    }
+                }
+            }
+        ]
+    }
+}

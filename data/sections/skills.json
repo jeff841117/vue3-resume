@@ -1,0 +1,255 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Skill</span> Set",
+            "description": "Exploring the diverse range of skills I've acquired and developed:"
+        },
+        "zh": {
+            "title": "<span class='text-primary'>技能</span>",
+            "description": "我所掌握技能:"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "abilities",
+            "type": "list",
+            "progress": null,
+            "faIcon": "fa-solid fa-square",
+            "locales": {
+                "en": {"title": null}
+            }
+        },
+
+        {
+            "id": "programming",
+            "type": "grid",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-code",
+            "locales": {
+                "en": {"title": "Programming"},
+                "zh": {"title": "程式能力"}
+            }
+        },
+
+        {
+            "id": "languages",
+            "type": "list",
+            "progress": {"0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native"},
+            "faIcon": "fa fa-language",
+            "locales": {
+                "en": {"title": "Languages"},
+                "zh": {"title": "語言"}
+            }
+        },
+
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Bonus Skills"},
+                "zh": {"title": "附加技能"}
+            }
+        }
+    ],
+
+    "items": {
+        "abilities": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-calendar-days",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Project management",
+                        "description": "Within a limited time, classify the problems and establish a schedule, and continue to track until the goal is completed."
+                    },
+                    "zh": {
+                        "title": "專案管理",
+                        "description": "在有限的時間內，將問題分類並建立時程，持續追蹤直至目標完成。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-newspaper",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Advertising creative ideas and proposals",
+                        "description": "Design creative advertisements, logos, advertising copywriting ideas and proposal plans."
+                    },
+                    "zh": {
+                        "title": "廣告創意發想與提案",
+                        "description": "設計創意廣告、logo，廣告文案發想與提案計畫。"
+                    }
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-pen-to-square",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Word processing",
+                        "description": "Office and Adobe software operations, word, ppt, excel, Photoshop, illustrator, Painter, and Animate related software applications."
+                    },
+                    "zh": {
+                        "title": "文書處理",
+                        "description": "office軟體操作，word、ppt、excel相關軟體應用。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-list-check",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Preparation and operation of spreadsheets",
+                        "description": "Use excel functions to create tables and reports."
+                    },
+                    "zh": {
+                        "title": "電子試算表製作與操作",
+                        "description": "運用excel功能，製作表格與報告。"
+                    }
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fas fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {
+                        "title": "Front-end web design and production",
+                        "description": "Realize web page design and layout, and implement web page functional logic."
+                    },
+                    "zh": {
+                        "title": "前端網頁設計與製作",
+                        "description": "實現網頁頁面設計與切版，並實現網頁功能邏輯。"
+                    }
+                }
+            }
+        ],
+
+        "programming": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-html5",
+                "value": 40,
+                "locales": {
+                    "en": {"title": "HTML 5", "description": "Experience Time: 1 years"},
+                    "zh": {"title": "HTML 5", "description": "經驗時長：1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-css3-alt",
+                "value": 30,
+                "locales": {
+                    "en": {"title": "CSS 3", "description": "Experience Time: 1 years"},
+                    "zh": {"title": "CSS 3", "description": "經驗時長：1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-c",
+                "value": 40,
+                "locales": {
+                    "en": {"title": "c#", "description": "Experience Time: 1 years"},
+                    "zh": {"title": "c#", "description": "經驗時長：1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-js-square",
+                "value": 20,
+                "locales": {
+                    "en": {"title": "JavaScript", "description": "Experience Time: Less than 1 years"},
+                    "zh": {"title": "JavaScript", "description": "經驗時長：< 1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-vuejs",
+                "value": 0,
+                "locales": {
+                    "en": {"title": "Vue 3", "description": "Experience Time: Less than 1 years"},
+                    "zh": {"title": "Vue 3", "description": "經驗時長：< 1年"}
+                }
+            },
+
+            {
+                "imageIconUrl": null,
+                "faIcon": "fab fa-unity",
+                "value": 40,
+                "locales": {
+                    "en": {"title": "Unity", "description": "Experience Time: 1 years"},
+                    "zh": {"title": "Unity", "description": "經驗時長：1年"}
+                }
+            }
+        ],
+
+        "languages": [
+            {
+                "imageIconUrl": "images/flags/en.png",
+                "faIcon": null,
+                "value": 40,
+                "locales": {
+                    "en": {"title": "English", "description": "Ability to communicate and read and write simply."},
+                    "zh": {"title": "英文", "description": "能夠簡單溝通和讀寫能力。"}
+                }
+            },
+
+            {
+                "imageIconUrl": "images/flags/es.png",
+                "faIcon": null,
+                "value": 100,
+                "locales": {
+                    "en": {"title": "Chinese", "description": "Fluent speaking, reading and writing abilities."},
+                    "zh": {"title": "中文", "description": "流暢的口語和讀寫能力。"}
+                }
+            }
+        ],
+
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon":"fab fa-sass",
+                "value": null,
+                "locales": {
+                    "en": {"title": "SASS", "description": "A language that assists CSS development in a more intuitive way."},
+                    "zh": {"title": "SASS", "description": "協助CSS開發的層疊樣式語言，以更直觀的方式進行編寫。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon":"fab fa-bootstrap",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Bootstrap", "description": "Extensions to help with typography, forms, buttons, navigation and various other components and Javascript."},
+                    "zh": {"title": "Bootstrap", "description": "協助字體排印、表單、按鈕、導航及其他各種元件及Javascript的擴充套件。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon":"fab fa-git",
+                "value": null,
+                "locales": {
+                    "en": {"title": "git", "description": "Version control software, an essential tool for division of labor and collaboration."},
+                    "zh": {"title": "git", "description": "版本控制軟體，分工協作不可或缺的工具。"}
+                }
+            }
+        ]
+
+    }
+}
