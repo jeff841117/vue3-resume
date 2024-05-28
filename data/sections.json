@@ -26,7 +26,7 @@
             "id": "about",
             "categoryId": "home",
             "component": "CoverSection",
-            "jsonPath": "/vue-resume/data/sections/cover.json",
+            "jsonPath": "/vue3-resume/data/sections/cover.json",
             "faIcon": "fa-solid fa-address-card",
             "cover": true
         },
@@ -35,7 +35,7 @@
             "id": "skills",
             "categoryId": "showcase",
             "component": "InfoSection",
-            "jsonPath": "/vue-resume/data/sections/skills.json",
+            "jsonPath": "/vue3-resume/data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },
 
@@ -43,7 +43,7 @@
             "id": "experience",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "/vue-resume/data/sections/experience.json",
+            "jsonPath": "/vue3-resume/data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
         },
 
@@ -51,7 +51,7 @@
             "id": "portfolio",
             "categoryId": "showcase",
             "component": "GallerySection",
-            "jsonPath": "/vue-resume/data/sections/portfolio.json",
+            "jsonPath": "/vue3-resume/data/sections/portfolio.json",
             "faIcon": "fa-solid fa-folder-open"
         },
 
@@ -59,7 +59,7 @@
             "id": "education",
             "categoryId": "background",
             "component": "TimelineSection",
-            "jsonPath": "/vue-resume/data/sections/education.json",
+            "jsonPath": "/vue3-resume/data/sections/education.json",
             "faIcon": "fa-solid fa-graduation-cap"
         },
 
@@ -67,7 +67,7 @@
             "id": "achievements",
             "categoryId": "showcase",
             "component": "ThreadsSection",
-            "jsonPath": "/vue-resume/data/sections/achievements.json",
+            "jsonPath": "/vue3-resume/data/sections/achievements.json",
             "faIcon": "fa-solid fa-award"
         },
 
@@ -75,7 +75,7 @@
             "id": "hobbies",
             "categoryId": "more",
             "component": "InfoSection",
-            "jsonPath": "/vue-resume/data/sections/hobbies.json",
+            "jsonPath": "/vue3-resume/data/sections/hobbies.json",
             "faIcon": "fa-solid fa-heart"
         }
     ]
